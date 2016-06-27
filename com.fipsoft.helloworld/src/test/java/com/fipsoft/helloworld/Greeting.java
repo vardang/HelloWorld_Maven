@@ -1,0 +1,1 @@
+/home/vardang/Projects/MAVEN/HelloWorld/com.fipsoft.helloworld/src/main/java/com/fipsoft/helloworld/Greeting.java
