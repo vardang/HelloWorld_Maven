@@ -14,7 +14,7 @@ public class Greeting {
 
         String someGreeting = null;
 
-        File confProp = new File("../../../config.properties");
+        File confProp = new File("src/main/resources/config.properties");
         BufferedReader bufReader = null;
 
         try {
